@@ -13,3 +13,5 @@ Answers are following:
 3. Komori
 4. Chidoriyama
 5. Tendo
+
+Quiz made on node.js Repl
