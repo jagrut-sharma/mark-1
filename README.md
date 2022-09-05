@@ -8,6 +8,8 @@ It consists of five questions. After five questions, it will tell you your final
 
 Hope you have fun!
 
+[Play Here.](https://replit.com/@JagrutSharma/mark-1?embed=1&output=1)
+
 Answers are following:
 
 1. Karasuno
