@@ -1,4 +1,6 @@
-# Mark-1
+# Haikyuu Anime Quiz
+
+## mark-1
 
 I created a quiz to test how well do you know about haikyuu (anime/manga)
 
